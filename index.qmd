@@ -1,0 +1,19 @@
+---
+title: "Welcome!"
+---
+
+This is my personal website.
+
+I am an aspiring economic historian with a focus on Russian economic history. I am particularly interested in:
+
+- 1700-1917 processes of urbanization, colonization and subsequent industrialization attempts
+- post-WWII Soviet Union industrial economic geography 
+- post-WWII Soviet political economy, especially concerning the military-industrial complex, natural resources and rent-seeking
+- nationalism in Soviet Union regions (both USSR republics and RSFSR ethnic regions) and its effects during the breakup of the Soviet Union and 1990s as a whole
+- african economic history, especially with regards to the effects of decolonization processes and Cold War era aid/military/political support on modern economic development outcomes.
+
+Apart from economic history, I am also interested in data science, geospatial analytics and computational social sciences. Moreover, I hope to keep an open mind to any topic and firmly believe that collaboration dynamics, quality of work and real-world significance dictate interest in a project more than the particularities of the subject matter. 
+
+I do not use ChatGPT or any other AI models to generate any text on this website or in my projects. I do (currently) use GitHub Co-Pilot as it is sometimes helpful with repetitive code exercises. 
+
+Some of my data analyses and academic works are available on my [GitHub page](https://github.com/sapolikanov) as a portfolio. I am also on Twitter and LinkedIn in professional capacity. 
