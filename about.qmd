@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-CV goes here.s
+CV goes here
