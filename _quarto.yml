@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - "cv/*"
+    - cv/
 
 website:
   title: "Stepan Polikanov"
