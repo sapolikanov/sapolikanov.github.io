@@ -1,0 +1,146 @@
+\documentclass[11pt]{article}
+\usepackage[english]{babel}
+\usepackage{cmbright}
+\usepackage{cmap}      
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{fontawesome5}
+\usepackage{geometry}
+\definecolor{blue-violet}{rgb}{0.54, 0.17, 0.89}
+\usepackage[colorlinks = true,
+            linkcolor = blue-violet,
+            urlcolor  = blue-violet,
+            citecolor = blue-violet,
+            anchorcolor = blue-violet]{hyperref}
+\usepackage[sf]{libertine}
+\usepackage{microtype}
+\usepackage{paracol}
+\usepackage{supertabular}
+\usepackage{titlesec}
+
+% Geometry
+\geometry{hmargin=1.75cm, vmargin=2.5cm}
+\columnratio{0.5, 0.5}
+\setlength\columnsep{0.05\textwidth}
+\setlength\parindent{0pt}
+\setlength{\smallskipamount}{8pt plus 3pt minus 3pt}
+\setlength{\medskipamount}{16pt plus 6pt minus 6pt}
+\setlength{\bigskipamount}{24pt plus 8pt minus 8pt}
+
+
+% Style
+\pagestyle{empty}
+\titleformat{\section}{\scshape\LARGE\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{\bigskipamount}{\smallskipamount}
+\newcommand{\heading}[2]{\centering{\sffamily\Huge #1}\\\smallskip{\large{#2}}}
+\newcommand{\entry}[4]{{{\textbf{#1}}} \hfill #3 \\ #2 \hfill #4}
+\newcommand{\tableentry}[3]{\textsc{#1} & #2\expandafter\ifstrequal\expandafter{#3}{}{\\}{\\[6pt]}}
+
+
+\begin{document}
+
+\begin{paracol}{2}
+
+% Name & headline
+\heading{Stepan Polikanov}{Full Academic \textit{Curriculum Vitae}, \\ to display on the website.}
+
+\switchcolumn
+
+% Identity card
+\vspace{0.01\textheight}
+\begin{supertabular}{ll}
+  \footnotesize\faMapMarker & Madrid, Spain \\
+  \footnotesize\faEnvelope & splknv (dot) public (at) gmail (dot) com \\
+  \footnotesize\faRss & sapolikanov (dot) github (dot) io \\
+  \footnotesize\faLinkedin & /stepan-polikanov \\
+  \footnotesize\faGithub & /sapolikanov \\
+\end{supertabular}
+
+\smallskip
+\end{paracol}
+
+\section{education}
+
+\entry{Master's in Social Science}{Universidad Carlos III, Madrid}{}{2023-2025}
+
+\entry{Bachelor's in Political Science}{Higher School of Economics, Moscow}{}{2019-2023}
+
+\section{academic employment}
+
+\entry{\href{https://cinst.hse.ru/en/}{\color{blue-violet}{Center for Institutional Studies}} at \href{https://www.hse.ru/en/}{\color{blue-violet}{Higher School of Economics}}}{}{}{}
+
+\entry{\href{https://cinst.hse.ru/en/histroots/}{Historic Roots of Regional Development}}{Principle Investigator: \href{https://www.hse.ru/en/staff/natkhov}{Timur Natkhov} - \href{mailto:tnatkhov@hse.ru}{tnatkhov@hse.ru}}{}{Dec 22 -- Aug 23}
+
+\begin{quote}
+\begin{itemize}[noitemsep,leftmargin=3.5mm,rightmargin=0mm,topsep=6pt]
+  \item Collection and digitalization of historical data
+  \item Time-series cross-section data compilation, remediation and analysis
+  \item Writing literature reviews
+\end{itemize}
+\end{quote}
+
+\smallskip
+
+\entry{\href{https://cinst.hse.ru/en/pprocurement/}{\color{blue-violet}{Economics of Public Procurement}}}{Principal Investigator: \href{https://www.hse.ru/en/staff/epodkolzina}{\color{blue-violet}{Elena Podkolzina}}}{}{June 21 -- Nov 22}
+
+\begin{quote}
+\begin{itemize}[noitemsep,leftmargin=3.5mm,rightmargin=0mm,topsep=6pt]
+  \item JSON and XML data parsing and processing
+  \item Big data manipulation \& analysis
+  \item Data documentation write ups: codebooks, data reports, visualizations
+  \item Econometric modelling - OLS, logit, probit, robustness exercises
+  \item Attending research seminars
+\end{itemize}
+
+\raggedright
+Research assistant for Camboni, R., Podkolzina, E., \& Valbonesi, P. (2021). \textit{Buyer’s discretion in Russian public procurement under Covid-19 emergency}. In ``Procurement in Focus: Rules, Discretion, and Emergencies''.
+\end{quote}
+
+\section{complete research projects}
+
+\newpage
+
+\entry{Ethnic revival, economic leverage and free-riding. Revisiting the bilateral bargaining process in Russia, 2024}{Course paper}{}{}
+
+\smallskip
+
+\entry{Estate origins of democracy? Social class persistence through communism in Russia, 2024}{Course paper}{}{}
+
+\smallskip
+
+\entry{Voting abroad: determinants of immigrant voting patterns in 2024 Russian Presidential Elections, 2024}{Course paper}{}{}
+
+\smallskip
+
+\entry{Soviet legacies and long-term development: Exploring the Subnational Dimension, 2023}{Course paper}{}{}
+
+\smallskip
+
+\entry{The Cristero War (1926-1929): Investigating Long-term Effects on Mexico's Democratization, 2023}{Course paper. In collaboration with Diego Martín Álvarez (student)}{}{}
+
+\smallskip
+
+\entry{``Cost of Cold'': Soviet Industrial Planning and City Governance Outcomes, 2023}{Bachelor's thesis. Scientific Advisor: \href{https://www.hse.ru/en/staff/natkhov}{Timur Natkhov}}{}{}
+
+\smallskip
+
+\entry{The Effect of Public Procurement on Public Evaluations of Healthcare: Evidence from Russian Public
+Opinion During the COVID-19 Pandemic, 2022}{Coursework. Scientific Advisor: \href{https://israelmarques.com/}{Israel Marques}}{}{}
+
+\smallskip
+
+\entry{\href{https://github.com/sapolikanov/domparty}{Democracy and dominant party regimes in Africa: a comparative analysis}, 2021}{Originally yearly research paper (coursework), now updated portfolio project on Github. Scientific Advisor: \href{https://www.hse.ru/en/org/persons/61713365}{Ekim Arbatli}}{}{}
+
+\section{competencies}
+\begin{supertabular}{rl}
+  \tableentry{\footnotesize\faCode}{R \textperiodcentered{} RMarkdown \textperiodcentered{} Quatro \textperiodcentered{} Python \textperiodcentered{} Excel \textperiodcentered{} Stan \textperiodcentered{} Git }{}
+  \tableentry{}{}{}
+
+  \tableentry{\footnotesize\faLanguage}{English \textperiodcentered{} proficient}{}
+  \tableentry{}{Russian \textperiodcentered{} native}{}
+  \tableentry{}{Spanish \textperiodcentered{} elementary}{}
+
+\end{supertabular}
+
+\end{document}
