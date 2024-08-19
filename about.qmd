@@ -4,6 +4,6 @@ title: "Curriculum Vitae"
 
 Here is my Academic CV:
 
-{{< pdf cv/master_cv.pdf width=100% height=800 image=cv/master_cv.png image_force=TRUE >}}
+{{< pdf cv/master_cv.pdf width=100% height=800 image=cv/master_cv.png >}}
 
 If you are viewing on mobile, you can download a pdf version of my CV [here](cv/master_cv.pdf).
