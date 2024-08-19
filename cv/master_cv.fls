@@ -4,10 +4,10 @@ INPUT master_cv.tex
 OUTPUT master_cv.log
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def

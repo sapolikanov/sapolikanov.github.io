@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1724089347.29352 "master_cv.tex" "master_cv.pdf" "master_cv" 1724089348.45527 0
+["pdflatex"] 1724092686.03857 "master_cv.tex" "master_cv.pdf" "master_cv" 1724092687.12988 0
   "C:/Users/Stepan Polikanov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1718887387 133490 3e96895a5fca01ee29ddb2bf91bf665d ""
   "C:/Users/Stepan Polikanov/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1714900876 24241233 1584a45303724991c00c1814ade0d985 ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1651500229 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -9,7 +9,7 @@
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_afusau.enc" 1497089888 3358 dfe33526c2f2184d6b22489aab24ba03 ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_edcawa.enc" 1497089888 2833 ab571e969b0d4b8e87f8f63627b1db02 ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_kqi56g.enc" 1497089888 3004 d5f3ce0ade43ada54fc2fb32beb38f44 ""
-  "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cmbright/cmbr10.tfm" 864662942 1304 95ad082f6791446dc43df559d5c79878 ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cmbright/cmbr8.tfm" 1021149232 1304 6f575d26e34fea6311d7ae3e9a5bf8d0 ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cmbright/cmbrmi10.tfm" 864662942 1544 20b33e3c0f9b0012adb04ac9d418afaa ""
@@ -70,7 +70,7 @@
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty" 1705277178 3045 273c666a54e60b9f730964f431a56c1b ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty" 1705277179 2462 6bc53756156dbd71c1ad550d30a3b93f ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty" 1705277178 5119 a04a8b68ab4f6ce800a41f7f8012a10e ""
-  "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1705277178 8449 f07039d8e4e89f21078d9b5137579bfc ""
+  "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1705277178 8464 59874a3b0776c73e2a138b025d8473dd ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty" 1705277178 2894 fc64867f9d198785eabe71a88276a9cb ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/cmap/cmap.sty" 1612613098 3574 ddc11a0ae1c579d351ed20d2319ad422 ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/cmap/ot1.cmap" 1612613098 1207 4e0d96772f0d338847cbfb4eca683c81 ""
@@ -127,9 +127,9 @@
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700131122 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "master_cv.aux" 1724089348 696 65ac623f8c43f2f2c1b7252c6d9abf38 "pdflatex"
-  "master_cv.out" 1724089348 511 eb6b5d0ab9ff37a718a15e38c7f5f090 "pdflatex"
-  "master_cv.tex" 1724089346 5867 82563c3b546f194cf1285ae873d1ccd4 ""
+  "master_cv.aux" 1724092686 696 65ac623f8c43f2f2c1b7252c6d9abf38 "pdflatex"
+  "master_cv.out" 1724092686 511 eb6b5d0ab9ff37a718a15e38c7f5f090 "pdflatex"
+  "master_cv.tex" 1724092684 5861 8291f12f5f7cb9f32318dc05bded4554 ""
   (generated)
   "master_cv.aux"
   "master_cv.log"

@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - cv/master_cv.pdf
+    - cv/master_cv.png
 
 website:
   title: "Stepan Polikanov"

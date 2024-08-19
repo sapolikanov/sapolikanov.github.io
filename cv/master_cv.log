@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.5)  19 AUG 2024 13:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.5)  19 AUG 2024 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,9 +11,9 @@ L3 programming layer <2024-03-14>
 .cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 
-(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.
+(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.
 clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count188
 \c@section=\count189
@@ -554,7 +554,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidthfirst=\dimen175
 )
 LaTeX Font Info:    Trying to load font information for OT1+LinuxBiolinumT-TLF 
-on input line 42.
+on input line 41.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ot
 1linuxbiolinumt-tlf.fd
@@ -562,28 +562,28 @@ File: OT1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/L
 inuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 42.
+(Font)              scaled to size 10.95pt on input line 41.
 <<ot1.cmap>> (master_cv.aux)
 \openout1 = `master_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\
 supp-pdf.mkii
@@ -619,12 +619,12 @@ supp-pdf.mkii
 * \topmargin=-38.1381pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=25.73708pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -634,26 +634,26 @@ supp-pdf.mkii
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 42.
+Package hyperref Info: Link coloring ON on input line 41.
 (master_cv.out) (master_cv.out)
 \@outlinefile=\write3
 \openout3 = `master_cv.out'.
 
 \c@mv@tabular=\count302
 \c@mv@boldtabular=\count303
-LaTeX Info: Redefining \microtypecontext on input line 42.
-Package microtype Info: Applying patch `item' on input line 42.
-Package microtype Info: Applying patch `toc' on input line 42.
-Package microtype Info: Applying patch `eqnum' on input line 42.
-Package microtype Info: Applying patch `footnote' on input line 42.
-Package microtype Info: Applying patch `verbatim' on input line 42.
+LaTeX Info: Redefining \microtypecontext on input line 41.
+Package microtype Info: Applying patch `item' on input line 41.
+Package microtype Info: Applying patch `toc' on input line 41.
+Package microtype Info: Applying patch `eqnum' on input line 41.
+Package microtype Info: Applying patch `footnote' on input line 41.
+Package microtype Info: Applying patch `verbatim' on input line 41.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 42.
+LaTeX Info: Redefining \showhyphens on input line 41.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -662,71 +662,71 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 48.
+(Font)              scaled to size 24.88pt on input line 46.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 48.
+(Font)              scaled to size 12.0pt on input line 46.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 48.
+(Font)              scaled to size 12.0pt on input line 46.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmbr' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+cmbrm on input line
- 54.
+ 52.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/cmbright\oml
 cmbrm.fd
 File: omlcmbrm.fd 2005/04/13 v8.1 (WaS)
 )<<oml.cmap>>
 LaTeX Font Info:    Trying to load font information for OMS+cmbrs on input line
- 54.
+ 52.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/cmbright\oms
 cmbrs.fd
 File: omscmbrs.fd 2005/04/13 v8.1 (WaS)
 )<<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 54.
+(Font)              <10.95> on input line 52.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 54.
+(Font)              <8> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 54.
+(Font)              <6> on input line 52.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 55.
+(Font)              scaled to size 9.0pt on input line 53.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 55.
+nput line 53.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5
 \ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 56.
+nput line 54.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5
 \ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 58.
+ input line 56.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5
 \ufontawesomebrands0.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
-available
+LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <9> not a
+vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 58.
+n input line 56.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 65.
+(Font)              scaled to size 10.95pt on input line 63.
 Package microtype Info: Character `013' is missing
-(microtype)             in font `OT1/LinuxBiolinumT-TLF/m/sc/12'.
+(microtype)             in font `OT1/LinuxBiolinumT-TLF/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 20.74pt on input line 65.
+(Font)              scaled to size 17.28pt on input line 63.
 Package microtype Info: Character `013' is missing
-(microtype)             in font `OT1/LinuxBiolinumT-TLF/m/sc/20.74'.
+(microtype)             in font `OT1/LinuxBiolinumT-TLF/m/sc/17.28'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 67.
+(Font)              scaled to size 10.95pt on input line 65.
 LaTeX Font Info:    Trying to load font information for TS1+LinuxBiolinumT-TLF 
-on input line 79.
+on input line 77.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ts
 1linuxbiolinumt-tlf.fd
@@ -734,13 +734,13 @@ File: TS1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/L
 inuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 79.
+(Font)              scaled to size 10.95pt on input line 77.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 99.
+(Font)              scaled to size 10.95pt on input line 97.
  [1
 
 {C:/Users/Stepan Polikanov/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:
@@ -753,12 +753,12 @@ anov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}
 ine/lbtn_kqi56g.enc}{C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fo
 nts/enc/dvips/libertine/lbtn_afusau.enc}]
 LaTeX Font Info:    Font shape `OT1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 139.
+(Font)              scaled to size 9.0pt on input line 137.
 Package microtype Info: Character `013' is missing
-(microtype)             in font `OT1/LinuxBiolinumT-TLF/m/sc/10'.
+(microtype)             in font `OT1/LinuxBiolinumT-TLF/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 139.
+nput line 137.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5
 \ufontawesomefree0.fd) [2{C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKT
@@ -771,11 +771,11 @@ Package rerunfilecheck Info: File `master_cv.out' has not changed.
 (rerunfilecheck)             Checksum: EB6B5D0AB9FF37A718A15E38C7F5F090;511.
  ) 
 Here is how much of TeX's memory you used:
- 18161 strings out of 474424
- 323916 string characters out of 5736512
+ 18153 strings out of 474424
+ 323734 string characters out of 5736512
  1939496 words of memory out of 5000000
- 40168 multiletter control sequences out of 15000+600000
- 584418 words of font info for 118 fonts, out of 8000000 for 9000
+ 40169 multiletter control sequences out of 15000+600000
+ 583582 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,7n,79p,1008b,498s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/type1/public/f
@@ -785,9 +785,9 @@ ocal/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb
 bertine/LinBiolinumT.pfb><C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/Stepan Polikanov/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumTI.pfb>
-Output written on master_cv.pdf (2 pages, 227580 bytes).
+Output written on master_cv.pdf (2 pages, 227705 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  40497 words of extra memory for PDF output out of 42996 (max. 10000000)
 
