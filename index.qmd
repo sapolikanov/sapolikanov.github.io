@@ -1,5 +1,19 @@
 ---
 title: "Welcome!"
+about:
+  template: marquee
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sapolikanov/
+    - icon: github
+      text: GitHub
+      href: https://github.com/sapolikanov
+    - icon: twitter-x
+      text: Twitter
+      href: https://x.com/spolikanov
+    - text: "{{< iconify fa6-brands:orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-2329-2750
 ---
 
 This is my personal website.
@@ -14,6 +28,9 @@ I am an aspiring economic historian with a focus on Russian economic history. I 
 
 Apart from economic history, I am also interested in data science, geospatial analytics and computational social sciences. Moreover, I hope to keep an open mind to any topic and firmly believe that collaboration dynamics, quality of work and real-world significance dictate interest in a project more than the particularities of the subject matter. 
 
+My name is pronounced [ˈstepən polikanov], Степан Поликанов in Russian. My pronouns are him/his.
+
 I do not use ChatGPT or any other AI models to generate any text on this website or in my projects. I do (currently) use GitHub Co-Pilot as it is sometimes helpful with repetitive code exercises. 
 
-Some of my data analyses and academic works are available on my [GitHub page](https://github.com/sapolikanov) as a portfolio. I am also on Twitter and LinkedIn in professional capacity. 
+Some of my data analyses and academic works are available on my GitHub page as a portfolio. I am also on Twitter and LinkedIn in professional capacity. 
+

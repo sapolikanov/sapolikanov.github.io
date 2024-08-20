@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources: 
     - cv/
+    - styling/
 
 website:
   title: "Stepan Polikanov"
@@ -10,10 +11,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - cv.qmd
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sapolikanov/
+      - icon: github
+        href: https://github.com/sapolikanov
+      - icon: twitter-x
+        href: https://x.com/spolikanov
+      - text: "{{< iconify fa6-brands:orcid >}}"
+        href: https://orcid.org/0000-0002-2329-2750
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styling/styles.css
     toc: true

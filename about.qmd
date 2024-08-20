@@ -1,9 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "About"
 ---
 
-Here is my Academic CV:
-
-{{< pdf cv/master_cv.pdf width=100% height=800 image=cv/master_cv.png >}}
-
-If you are viewing on mobile or your browser does not render pdfs, you can download a pdf version of my CV by clicking on its screenshot.
+I was born in Russia, 
