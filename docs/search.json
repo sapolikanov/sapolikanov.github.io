@@ -19,5 +19,19 @@
     "title": "Curriculum Vitae",
     "section": "",
     "text": "Here is my Academic CV:\n\nIf you are viewing on mobile or your browser does not render pdfs, you can download a pdf version of my CV by clicking on its screenshot."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Ethnic Revival, Economic Leverage and Free-Riding\n\n\n\n📖 Course Paper, 2024\n📄 PDF\n\n\n\n\n\n\n\n\nEstate Origins of Democracy? Social Class Persistence Through Communism in Russia\n\n\n\n📖 Course Paper, 2024\n📄 PDF\n\n\n\n\n\n\n\n\nVoting Abroad: Determinants of Immigrant Voting Patterns in 2024 Russian Presidential Elections\n\n\n\n📖 Course Paper, 2024\n📄 PDF\n\n\n\n\n\n\n\n\nSoviet Legacies and Long-term Development: Exploring the Subnational Dimension\n\n\n\n📖 Course Paper, 2023\n📄 PDF\n\n\n\n\n\n\n\n\nThe Cristero War (1926-1929): Investigating Long-term Effects on Mexico’s Democratization\n\n\n\n📖 Course Paper, 2023 (with Diego Martín Álvarez)\n📄 PDF\n\n\n\n\n\n\n\n\n“Cost of Cold”: Soviet Industrial Planning and City Governance Outcomes\n\n\n\n📖 Bachelor’s Thesis, 2023 (Advisor: Timur Natkhov)\n📄 PDF\n\n\n\n\n\n\n\n\nThe Effect of Public Procurement on Public Evaluations of Healthcare: Evidence from Russian Public Opinion During the COVID-19 Pandemic\n\n\n\n📖 Coursework, 2022 (Advisor: Israel Marques II)\n📄 PDF\n\n\n\n\n\n\n\n\nDemocracy and Dominant Party Regimes in Africa: A Comparative Analysis\n\n\n\n📖 Originally coursework (2021), updated portfolio project on GitHub\n📄 PDF"
+  },
+  {
+    "objectID": "papers.html#my-papers",
+    "href": "papers.html#my-papers",
+    "title": "Papers",
+    "section": "My Papers",
+    "text": "My Papers\n::: {.callout-default custom-paper} ### Ethnic Revival, Economic Leverage and Free-Riding (2024)\n📖 Course Paper\n📄 PDF :::\n::: {.callout-default custom-paper} ### Estate Origins of Democracy? Social Class Persistence Through Communism in Russia (2024)\n📖 Course Paper\n📄 PDF :::\n::: {.callout-default custom-paper} ### Voting Abroad: Determinants of Immigrant Voting Patterns in 2024 Russian Presidential Elections (2024)\n📖 Course Paper\n📄 PDF :::\n::: {.callout-default custom-paper} ### Soviet Legacies and Long-term Development: Exploring the Subnational Dimension (2023)\n📖 Course Paper\n📄 PDF :::\n::: {.callout-default custom-paper} ### The Cristero War (1926-1929): Investigating Long-term Effects on Mexico’s Democratization (2023)\n📖 Course Paper (with Diego Martín Álvarez)\n📄 PDF :::\n::: {.callout-default custom-paper} ### “Cost of Cold”: Soviet Industrial Planning and City Governance Outcomes (2023)\n📖 Bachelor’s Thesis (Advisor: Timur Natkhov)\n📄 PDF :::\n::: {.callout-default custom-paper} ### The Effect of Public Procurement on Public Evaluations of Healthcare (2022)\n📖 Coursework (Advisor: Israel Marques)\n📄 PDF :::\n::: {.callout-default custom-paper} ### Democracy and Dominant Party Regimes in Africa: A Comparative Analysis (2021)\n📖 Updated portfolio project on GitHub\n📄 PDF :::"
   }
 ]
