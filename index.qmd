@@ -30,7 +30,5 @@ Apart from economic history, I am also interested in data science, geospatial an
 
 My name is pronounced [ˈstepən polikanov], Степан Поликанов in Russian. My pronouns are him/his.
 
-I do not use ChatGPT or any other AI models to generate any text on this website or in my projects. I do (currently) use GitHub Co-Pilot as it is sometimes helpful with repetitive code exercises. 
-
 Some of my data analyses and academic works are available on my GitHub page as a portfolio. I am also on Twitter and LinkedIn in professional capacity. 
 
